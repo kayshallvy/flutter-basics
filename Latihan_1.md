@@ -1,7 +1,5 @@
 # Tugas Latihan 1
 
-Berikut adalah soal dan jawaban berdasarkan materi pada file README.md.
-
 **1. Bagaimana cara membuat project Flutter menggunakan terminal/cmd?**
 Pertama buka terminal atau cmd, lalu ketikkan perintah: `flutter create nama_project` (misalnya: `flutter create project_flutter_pertama`).
 
